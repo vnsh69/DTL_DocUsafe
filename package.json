@@ -1,0 +1,16 @@
+{
+  "name": "docusafe",
+  "version": "1.0.0",
+  "description": "DocUSafe is a secure and user-friendly document management system designed for educational institutions. It facilitates the secure storage, verification, and management of student documents while providing separate interfaces for administrators and students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
